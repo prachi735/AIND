@@ -1,0 +1,16 @@
+{
+    "critiques": {
+        "689": {
+            "rubric_items": {
+                "5531": {
+                    "result": "passed",
+                    "observation": "Correct! (Note: this rubric item was graded automatically.)"
+                },
+                "5530": {
+                    "result": "passed",
+                    "observation": "Correct! (Note: this rubric item was graded automatically.)"
+                }
+            }
+        }
+    }
+}
